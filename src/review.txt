@@ -1,0 +1,1 @@
+Proszę o rozdzielenie każde zadanie na oosbny pliki .java, a wszystkie pliki zamknąc w pakiecie lab1
