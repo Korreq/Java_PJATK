@@ -1,0 +1,5 @@
+Zadanie 2 - jeżeli metody są wykorzystywane tylko w tej jednej klasie to powinny być private, zgodnie z zasadą enkapsulacji z OOP.
+            zad2 ZAD = new zad2() - Nazwa klasy z Dużej, a nazwa zmiennej z małej i camelCasem. Nazwy metod tez camelCasem
+Zadanie 3 - jak return to już nie trzeba wskazywać zmiennej, samo return new int[0]; wystarczy
+
+Ocena 5/5
