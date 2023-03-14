@@ -1,0 +1,5 @@
+Proszę całość podzielić na osobne pliki.
+
+W zadaniu 8 należałoby skorzystać z lepszego sposobu na sortowanie, zaproponowane rozwiązanie ma złożonośc kwadratową.
+
+Ocena 5/5
