@@ -1,0 +1,4 @@
+1. W Javie przyjęło się, że najpierw wskazujemy pola, potem konstruktory, a na końcu metody
+2. Nie ma konieczności boolean isOn = false; false jest domyślną wartością
+
+Ocena 5/5
